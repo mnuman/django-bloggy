@@ -1,0 +1,445 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sta",
+				"status_code"
+			],
+			[
+				"json",
+				"jsonify"
+			],
+			[
+				"api",
+				"api_blueprint	statement"
+			],
+			[
+				"m",
+				"mimetype"
+			],
+			[
+				"ap",
+				"api_blueprint〔module〕"
+			],
+			[
+				"register",
+				"register_blueprint	function"
+			],
+			[
+				"v",
+				"views	module"
+			],
+			[
+				"users",
+				"users_blueprint	instance"
+			],
+			[
+				"t",
+				"tasks_blueprint	statement"
+			],
+			[
+				"user",
+				"users_blueprint	statement"
+			],
+			[
+				"sess",
+				"session"
+			],
+			[
+				"del",
+				"delete"
+			],
+			[
+				"use",
+				"user_id"
+			],
+			[
+				"ass",
+				"assertIn"
+			],
+			[
+				"Int",
+				"IntegrityError	class"
+			],
+			[
+				"erro",
+				"errors"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"Passw",
+				"PasswordField"
+			],
+			[
+				"Pass",
+				"PasswordField"
+			],
+			[
+				"DATA",
+				"DATABASE_PATH	statement"
+			],
+			[
+				"pri",
+				"priority	statement"
+			],
+			[
+				"task",
+				"task_id"
+			],
+			[
+				"login",
+				"login_required	function"
+			],
+			[
+				"log",
+				"login_required"
+			],
+			[
+				"clos",
+				"closed_tasks	statement"
+			],
+			[
+				"se",
+				"set_trace	function"
+			],
+			[
+				"connect",
+				"connect_db	function"
+			],
+			[
+				"w",
+				"wraps	function"
+			],
+			[
+				"render",
+				"render_template"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 220.0,
+		"last_filter": "comm",
+		"selected_items":
+		[
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"sublim",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"lin",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"instaa",
+				"Package Control: Install Package"
+			],
+			[
+				"pr",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"Prefere",
+				"Preferences: Settings - User"
+			],
+			[
+				"Package install",
+				"Package Control: Install Package"
+			],
+			[
+				"Pref",
+				"Preferences: Settings - User"
+			],
+			[
+				"Package inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"help(\"license\")",
+			"help",
+			"Install----- BEGIN LICENSE ---------- BEGIN LICENSE -----",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/milco/real-python/real-python-2/django-quick-start"
+	],
+	"file_history":
+	[
+		"/home/milco/real-python/real-python-2/django-quick-start/hello_world_project/hello_world_project/urls.py",
+		"/home/milco/real-python/real-python-2/django-quick-start/hello_world_project/hello_world/urls.py",
+		"/home/milco/real-python/real-python-2/django-quick-start/hello_world_project/templates/betterhello.html",
+		"/home/milco/real-python/real-python-2/django-quick-start/hello_world_project/hello_world/views.py",
+		"/home/milco/real-python/real-python-2/django-quick-start/hello_world_project/hello_world_project/settings.py",
+		"/home/milco/real-python/rp2-flask-bdd/features/environment.py",
+		"/home/milco/real-python/rp2-flask-bdd/features/steps/auth_steps.py",
+		"/home/milco/real-python/rp2-flask-bdd/features/auth.feature",
+		"/home/milco/testheroku/flasktaskr/tests/test_main.py",
+		"/home/milco/testheroku/flasktaskr/project/api/views.py",
+		"/home/milco/testheroku/flasktaskr/tests/test_api.py",
+		"/home/milco/testheroku/flasktaskr/project/_config.py",
+		"/home/milco/testheroku/flasktaskr/project/__init__.py",
+		"/home/milco/testheroku/flasktaskr/project/api/__init__.py",
+		"/home/milco/real-python/real-python-2/flasktaskr/project/_config.py",
+		"/home/milco/real-python/real-python-2/flasktaskr/project/__init__.py",
+		"/home/milco/real-python/real-python-2/flasktaskr/project/templates/500.html",
+		"/home/milco/real-python/real-python-2/flasktaskr/project/templates/404.html",
+		"/home/milco/real-python/real-python-2/flasktaskr/project/users/views.py",
+		"/home/milco/real-python/real-python-2/flasktaskr/tests/test_users.py",
+		"/home/milco/real-python/real-python-2/flasktaskr/tests/test_tasks.py",
+		"/home/milco/real-python/real-python-2/flasktaskr/tests/test_main.py",
+		"/home/milco/real-python/real-python-2/flasktaskr/project/templates/tasks.html",
+		"/home/milco/real-python/real-python-2/flasktaskr/project/models.py",
+		"/home/milco/real-python/real-python-2/flasktaskr/project/tasks/views.py",
+		"/home/milco/real-python/real-python-2/flasktaskr/project/templates/_base.html",
+		"/home/milco/real-python/real-python-2/flasktaskr/project/views.py",
+		"/home/milco/real-python/real-python-2/flasktaskr/project/test_users.py",
+		"/home/milco/real-python/real-python-2/flasktaskr/project/test_tasks.py",
+		"/home/milco/real-python/real-python-2/flasktaskr/project/db_migrate.py",
+		"/home/milco/real-python/real-python-2/flasktaskr/test.py",
+		"/home/milco/real-python/real-python-2/flasktaskr/views.py",
+		"/home/milco/real-python/real-python-2/flasktaskr/templates/tasks.html",
+		"/home/milco/real-python/real-python-2/flasktaskr/static/css/main.css",
+		"/home/milco/real-python/real-python-2/flasktaskr/templates/_base.html",
+		"/home/milco/real-python/real-python-2/flasktaskr/templates/login.html",
+		"/home/milco/real-python/real-python-2/flasktaskr/templates/register.html",
+		"/home/milco/real-python/real-python-2/flasktaskr/env/lib/python2.7/encodings/iso8859_13.py",
+		"/home/milco/real-python/real-python-2/flasktaskr/forms.py",
+		"/home/milco/real-python/real-python-2/flasktaskr/models.py",
+		"/home/milco/real-python/real-python-2/flasktaskr/db_migrate.py",
+		"/home/milco/real-python/real-python-2/flasktaskr/_config.py",
+		"/home/milco/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/milco/real-python/real-python-2/flasktaskr/db_create.py",
+		"/home/milco/real-python/real-python-2/.git/COMMIT_EDITMSG",
+		"/home/milco/real-python/real-python-2/flasktaskr/run.py",
+		"/home/milco/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/home/milco/real-python/real-python-2/flasktaskr/static/main.css",
+		"/home/milco/real-python/real-python-2/flasktaskr/env/lib/python2.7/site-packages/setuptools/package_index.py",
+		"/home/milco/real-python/real-python-2/debugging/pdb_ex.py",
+		"/home/milco/real-python/real-python-2/debugging/post_mortem_pdb.py",
+		"/home/milco/real-python/real-python-2/flask-blog/blog.py",
+		"/home/milco/real-python/real-python-2/flask-blog/static/css/styles.css",
+		"/home/milco/real-python/real-python-2/flask-blog/templates/template.html",
+		"/home/milco/real-python/real-python-2/flask-blog/templates/main.html",
+		"/home/milco/real-python/real-python-2/flask-blog/templates/login.html",
+		"/home/milco/real-python/real-python-2/flask-blog/env/lib/python2.7/site-packages/flask/app.py",
+		"/home/milco/real-python/real-python-2/flask-blog/sql.py",
+		"/home/milco/real-python/real-python-2/README.md",
+		"/home/milco/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/milco/.config/sublime-text-3/Packages/User/Python.sublime-settings"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 103.0,
+		"where_history":
+		[
+			"<current file>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"^[0-9]{1,3}",
+			"^[0-9]{1,3} ",
+			"^ ",
+			"^[0-9]{1,3}",
+			"create_admin",
+			"admin",
+			"users_can_l",
+			"register",
+			"complete",
+			"login",
+			"^[0-9]{1,3} *",
+			"delete",
+			"^[0-9]{1,3} *",
+			"complete",
+			"self.create_user",
+			"logout",
+			"test_not_l",
+			"delete",
+			"footer",
+			"^[0-9]{1,3} *",
+			"test_users_cannot_com",
+			"delete",
+			"username",
+			"Gppdbye",
+			"^[0-9]{1,3} *",
+			"^[0-9]{,3} *",
+			"register",
+			"^[0-9]{1,3} *",
+			"^[0-9]{,3} *",
+			"^ ",
+			"^[0-9]{1,2}",
+			"login",
+			"^[0-9]{1,3}",
+			"delete",
+			"endblock",
+			"^[0-9]{1,3}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"UserTests.create_user",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "djanglo-bloggy.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				".page",
+				"env/lib/python2.7/site-packages/setuptools/package_index.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 374.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 435.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
